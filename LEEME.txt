@@ -1,0 +1,20 @@
+VERSIÓN 1.4 (curva σ–ε con zona elástica ampliada; Jominy; corrosión en dibujos; preguntas tipo de módulos 11 y 12)
+
+SITIO WEB · Tecnología e Ingeniería II (Materiales y Estructuras)
+
+CONTENIDO DE ESTA CARPETA (todos los archivos van juntos, en la raíz del repositorio):
+  index.html              la web completa
+  manifest.webmanifest    datos de la aplicación (nombre, colores, iconos)
+  sw.js                   permite instalarla y verla sin conexión tras la primera visita
+  icon-192.png, icon-512.png, icon-maskable-512.png, apple-touch-icon.png   iconos
+
+PUBLICAR EN GITHUB PAGES
+  1. Crea un repositorio público en github.com.
+  2. Add file > Upload files: arrastra TODOS estos archivos (menos este LEEME, si quieres).
+  3. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+  4. Tu dirección: https://TU-USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/
+
+INSTALAR EN EL MÓVIL (icono en la pantalla de inicio)
+  Android (Chrome): menú de los tres puntos > Instalar aplicación (o Añadir a la pantalla de inicio).
+  iPhone (Safari): botón Compartir > Añadir a la pantalla de inicio.
+  Si el QR se abre dentro de otra aplicación (WhatsApp, Instagram...), usa antes «Abrir en el navegador».
