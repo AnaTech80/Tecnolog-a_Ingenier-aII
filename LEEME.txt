@@ -1,4 +1,4 @@
-VERSIÓN 1.4 (curva σ–ε con zona elástica ampliada; Jominy; corrosión en dibujos; preguntas tipo de módulos 11 y 12)
+VERSIÓN 2.6 (simulador que recorre la viga; viga isostática, hiperestática e hipostática; DCL completo; repaso de trigonometría y descomposición de fuerzas; procedimiento práctico de equilibrio; infografías CC BY-NC-SA 4.0 de TecnoHelmántica, currículo de Castilla y León)
 
 SITIO WEB · Tecnología e Ingeniería II (Materiales y Estructuras)
 
